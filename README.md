@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
 
 Diplomado en:
-Fundamentos de programación
-Fronted
-Introducción a Java SE
+Fundamentos de programación,
+Frontend,
+Introducción a Java SE,
 
 Cursando programación en Java y String

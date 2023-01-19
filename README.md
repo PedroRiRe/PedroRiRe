@@ -20,4 +20,4 @@ Fundamentos de programación,
 Frontend,
 Introducción a Java SE,
 
-Cursando programación en Java y String
+Cursando programación en Java y spring

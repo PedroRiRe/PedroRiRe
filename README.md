@@ -14,7 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+Soy una persona creativa e inovadora, estratégicamente me gusta el concepto de Calidad Total y la búsqueda de la mejora continua.
+Mi buen nivel de cooperación, participación así como mi empatía y respeto hacía los demás me facilitan mucho el trabajo en equipo. Tengo buena capacidad de comunicación, escucha y concentración que me permiten tener una visión colectiva y ser un trabajador orientado a los resultados.
+Mis experiencias laborales hacen de mí una persona proactiva, responsable y comprometida. Capaz de resolver los problemas que se presentan.
 Diplomado en:
 Fundamentos de programación,
 Frontend,

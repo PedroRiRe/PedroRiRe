@@ -1,6 +1,6 @@
 # ¡Hola! Soy Pedro Rivas 👋
 
-Desarrollador enfocado en el ecosistema **Java & Web**, con experiencia en logística y apasionado por la mejora continua.
+Desarrollador Java Full Stack enfocado en el diseño de soluciones tecnológicas para el sector Logístico & SGA. Apasionado por la optimización de procesos y la mejora continua.
 
 ---
 
